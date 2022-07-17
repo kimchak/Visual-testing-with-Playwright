@@ -1,4 +1,4 @@
-# Regression test for betterplace.org
+# Regression test for a charity donation site
 The objective of this repo is to automate a regression test for a given task with visiual error occuring on mobile devices with screen resolution lower than 400 px wide
 
 ## Used technologies
